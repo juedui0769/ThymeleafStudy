@@ -9,7 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>thymeleafexamples-gtvg</artifactId>
+    <!--<artifactId>thymeleafexamples-gtvg</artifactId>-->
+
+    <artifactId>gtvg</artifactId>
+    <packaging>war</packaging>
+    <version>ci</version>
+    <name>Thymeleaf Examples - Good Thymes Virtual Grocery</name>
+
+    <description>Modern server-side Java template engine for both web and standalone environments</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
