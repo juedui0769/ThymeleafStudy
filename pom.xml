@@ -6,7 +6,11 @@
 
     <groupId>com.wxg.study</groupId>
     <artifactId>ThymeleafStudy</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>thymeleafexamples-gtvg</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
