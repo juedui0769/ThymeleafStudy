@@ -1,1 +1,1 @@
-> Thymeleaf Study
+> Thymeleaf Study
